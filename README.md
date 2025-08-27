@@ -2,6 +2,4 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Page!;I'm+Data+Analyst+and+Business+Analyst;Excited+to+learn+new+technologies;Intrested+on+Data;Follow+me+for+more!" alt="Typing SVG" /></a>
 </p>
-<h3 align="left">Slide into my DMs (respectfully)</h3>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nadhifah-nur-annisa-reska/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/nadhifasshh)
+
